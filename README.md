@@ -5,14 +5,19 @@ In our model the created features are created using the same data of edges, and 
 
 Used features include
 1. Common Neoghbors 
+
     ![Common Neighbors](photos/common_neighbors.png)
 2. Jaccard Coefficient
+
     ![Jaccard Coefficient](photos/jaccard_coef.png)
 3. Resource Allocation
+
     ![Resource Allocation Index](photos/resource_alloc.png)
 4. Adamic Adar Index
+
     ![Adamic Adar Index](photos/adamic_adar.png)
 5. Preferential Attachement
+
     ![Preferential Attachment](photos/pref_att.png)
 6. Shortest Path
 
