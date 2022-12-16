@@ -9,7 +9,7 @@ Used features include
     ![Common Neighbors](photos/common_neighbors.png)
 2. Jaccard Coefficient
 
-    ![Jaccard Coefficient](photos/jaccard_coef.png)
+    ![Jaccard Coefficient](photos/jacc_coef.png)
 3. Resource Allocation
 
     ![Resource Allocation Index](photos/resource_alloc.png)
@@ -22,4 +22,4 @@ Used features include
 6. Shortest Path
 
 
-$Г(x)$ and $N(x)$ denotes the set on neighbors of $x$.
+$Г(x)$ and $N(x)$ denotes the set of neighbors of $x$.
