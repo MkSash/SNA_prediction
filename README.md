@@ -22,4 +22,4 @@ Used features include
 6. Shortest Path
 
 
-$Г(x)$ denotes the set on neighbors of $x$.
+$Г(x)$ and $N(x)$ denotes the set on neighbors of $x$.
